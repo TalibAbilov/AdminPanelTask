@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\wwwroot\\manage\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\wwwroot\\manage\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232831_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoffeeTask\\Migrations\\20241126232831_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232741_addProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoffeeTask\\Migrations\\20241126232741_addProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|c:\\users\\asus\\source\\repos\\coffeetask\\coffeetask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B917779-30FD-4AD2-9CFB-BBF91AC1C8B6}|CoffeeTask\\CoffeeTask.csproj|solutionrelative:coffeetask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:18:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T00:31:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:59:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:59:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\wwwroot\\manage\\index.html",
+              "RelativeDocumentMoniker": "CoffeeTask\\wwwroot\\manage\\index.html",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\wwwroot\\manage\\index.html",
+              "RelativeToolTip": "CoffeeTask\\wwwroot\\manage\\index.html",
+              "ViewState": "AgIAACoBAAAAAAAAAAAwwE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-26T23:48:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241126232831_addTables.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232831_addTables.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Migrations\\20241126232831_addTables.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232831_addTables.cs",
+              "RelativeToolTip": "CoffeeTask\\Migrations\\20241126232831_addTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:28:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241126232741_addProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232741_addProductTable.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Migrations\\20241126232741_addProductTable.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Migrations\\20241126232741_addProductTable.cs",
+              "RelativeToolTip": "CoffeeTask\\Migrations\\20241126232741_addProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:27:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CoffeeTask\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\wwwroot\\index.html",
+              "RelativeToolTip": "CoffeeTask\\wwwroot\\index.html",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAwwI8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-26T23:20:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:18:18.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:18:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:17:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:17:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:17:06.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:16:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADIBAAAAAAAAAAAIwFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:15:56.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Areas\\manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Areas\\manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CoffeeTask\\Areas\\manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:15:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\appsettings.json",
+              "RelativeToolTip": "CoffeeTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T23:06:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Program.cs",
+              "RelativeToolTip": "CoffeeTask\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:10:39.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:09:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Models\\Category.cs",
+              "RelativeToolTip": "CoffeeTask\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:08:58.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "CoffeeTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:07:14.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeeTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:06:18.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoffeeTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoffeeTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:06:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CoffeeTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\CoffeeTask\\CoffeeTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CoffeeTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T23:05:39.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
